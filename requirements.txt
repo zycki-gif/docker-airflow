@@ -1,0 +1,4 @@
+apache-airflow[gcp,aws]==1.10.10
+icon-etl>=0.1.0
+psycopg2-binary
+SQLAlchemy
